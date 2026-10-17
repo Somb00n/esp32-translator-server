@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+speech_recognition
+deep_translator
+gTTS
+pydub
+imageio-ffmpeg
+python-multipart
