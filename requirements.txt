@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-speech_recognition
+SpeechRecognition
 deep_translator
 gTTS
 pydub
